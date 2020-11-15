@@ -1,4 +1,4 @@
-module github.com/openshift/coredns-mdns
+module github.com/hennemon/coredns-mdns
 
 require (
 	github.com/caddyserver/caddy v1.0.4
